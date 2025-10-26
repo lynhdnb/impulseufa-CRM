@@ -1,0 +1,5 @@
+{
+  "name": "DJ School CRM",
+  "description": "A comprehensive CRM for a DJ school, featuring a Google Calendar-like schedule, client management, sales tracking, and an AI-powered knowledge base for communication scripts.",
+  "requestFramePermissions": []
+}
